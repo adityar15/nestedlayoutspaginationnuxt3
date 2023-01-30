@@ -1,3 +1,9 @@
+# Nested Layout and Pagination
+
+This repo is made for this [YouTube video](https://youtu.be/9MVQmk5u_3I)
+
+
+
 # Nuxt 3 Minimal Starter
 
 Look at the [Nuxt 3 documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
